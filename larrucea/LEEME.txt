@@ -1,0 +1,22 @@
+Fotos de la propuesta de rediseño de larrucea.es
+
+web/
+  Las 41 imágenes optimizadas (WebP) que usa la propuesta, con el color
+  corregido y los datos de clientes tapados en los informes. Son las mismas
+  que van incrustadas dentro de larrucea-propuesta.html.
+
+alta-resolucion/
+  Las fotos reales recuperadas del servidor de la clínica, hasta 2.400 px,
+  con nombres descriptivos. Los informes de laboratorio llevan tapado el
+  nombre del propietario. Los archivos originales completos siguen en
+  larrucea.es/wp-content/uploads.
+  gato-sofa-naranja-pexels: foto libre de Pexels que la clínica ya usaba
+  en Instalaciones (no es de la clínica).
+
+logo/
+  Taz redibujado en vectorial (SVG) y exportado a PNG de 1024 px:
+  insignia en óxido, insignia para fondo oscuro, dibujo de línea y silueta
+  para fondo oscuro. También el logo original (captura de 75x68 px).
+
+No se incluyen las cabeceras actuales de la web: son capturas de pantalla
+de búsquedas de imágenes de Google con fotos y logos de terceros.
